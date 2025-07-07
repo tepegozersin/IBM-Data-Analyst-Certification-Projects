@@ -32,7 +32,7 @@ This project is part of the **IBM Data Analyst Professional Certificate**. It in
 📍 Antalya, Türkiye  
 📧 tepegozersin@gmail.com  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ersin-tepeg%C3%B6z-8710ab366/)  
-📁 GitHub Portfolio: [github.com/ersintepegoz](https://github.com/tepegozersin)
+📁 GitHub Portfolio: [github.com/tepegozersin](https://github.com/tepegozersin)
 
 ---
 
